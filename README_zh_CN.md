@@ -1,4 +1,8 @@
-![封面](./docs/docs/public/rin-logo.png)
+本项目为Fork！！！原项目openRin!
+
+
+
+[封面](./docs/docs/public/rin-logo.png)
 
 [English](./README.md) | 简体中文
 
